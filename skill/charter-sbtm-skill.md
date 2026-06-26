@@ -30,30 +30,30 @@ Além de gerar o documento, esta skill pode **executar** a sessão exploratória
 ```
 🧭 CHARTER DE TESTE EXPLORATÓRIO — SBTM
 
-📋 IDENTIFICAÇÃO
+IDENTIFICAÇÃO
 - Título da Missão: [Incluir heurística principal, ex: "Explorar funcionalidade X com heurística Y"]
 - Funcionalidade Alvo:
 - Data / Versão:
 
-🎯 MISSÃO
+MISSÃO
 [Objetivo central da sessão — o que será explorado e com qual lente/heurística]
 
-🔍 HEURÍSTICAS RECOMENDADAS PARA ESTA SESSÃO
+HEURÍSTICAS RECOMENDADAS PARA ESTA SESSÃO
 - Heurística principal: [nome e breve descrição]
 - Heurísticas de apoio: [lista]
 
-🔎 ÁREAS DE INVESTIGAÇÃO
+ÁREAS DE INVESTIGAÇÃO
 - [Área 1]
 - [Área 2]
 - [Área 3]
 - [Aplicar heurísticas: Fronteira, CRUD, Estado, Interrupção, etc.]
 
-🧩 RECURSOS E DADOS
+RECURSOS E DADOS
 - Dados de teste necessários:
 - Configurações / ambientes:
 - Ferramentas de apoio:
 
-🚫 FORA DO ESCOPO
+FORA DO ESCOPO
 [O que NÃO será testado nesta sessão]
 
 --- (preenchimento pós-sessão) ---
@@ -66,18 +66,18 @@ Além de gerar o documento, esta skill pode **executar** a sessão exploratória
 - Session Setup: ___%
 - Charter vs Opportunity: ___% / ___%
 
-📝 NOTAS DA SESSÃO
+NOTAS DA SESSÃO
 Use (I) para Informações e (R) para Riscos.
 - (I)
 - (R)
 
-🐞 DEFEITOS ENCONTRADOS
+DEFEITOS ENCONTRADOS
 - [Descrição do bug]
 
-❓ ISSUES / PERGUNTAS
+ISSUES / PERGUNTAS
 - [Dúvidas sobre o comportamento esperado]
 
-🔄 DEBRIEFING PROOF (pós-sessão)
+DEBRIEFING PROOF (pós-sessão)
 - Past: O que aconteceu durante a sessão?
 - Results: O que foi alcançado?
 - Obstacles: O que atrapalhou?
@@ -130,7 +130,7 @@ Use este fluxo quando o usuário pedir para rodar/executar/testar a sessão de f
 
 ## Exemplo de Entrada e Saída
 
-**Entrada**: US-042 — Como usuário logado, quero redefinir minha senha através do e-mail cadastrado.
+**Entrada**: US-001 — Como usuário logado, quero redefinir minha senha através do e-mail cadastrado.
 
 **Saída (charter gerado)**:
 - Charter com título: "Exploração do Fluxo de Redefinição de Senha com Heurísticas de Fronteira, Estado e Abordagem Contrária"
