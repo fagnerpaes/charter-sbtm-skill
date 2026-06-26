@@ -1,10 +1,10 @@
-# 🧭 Charter de Teste Exploratório SBTM
+# Charter de Teste Exploratório SBTM
 
 Skill para geração automatizada de Charters de Teste Exploratório no formato **Session-Based Test Management (SBTM)**, com exploração guiada por **Heurísticas de Teste**.
 
 ---
 
-## 🎯 Propósito
+## Propósito
 
 Apoiar analistas de testes na execução de **testes exploratórios** estruturados, combinando:
 
@@ -13,7 +13,7 @@ Apoiar analistas de testes na execução de **testes exploratórios** estruturad
 
 ---
 
-## 📋 Como usar
+## Como usar
 
 ### Entrada
 
@@ -44,7 +44,7 @@ A skill gera um Charter SBTM completo contendo:
 
 ---
 
-## 🧠 Seleção de Heurísticas
+## Seleção de Heurísticas
 
 A skill seleciona automaticamente as heurísticas com base no **tipo de funcionalidade** identificado na User Story ou requisito:
 
@@ -65,39 +65,39 @@ A skill seleciona automaticamente as heurísticas com base no **tipo de funciona
 
 ---
 
-## 📄 Estrutura do Charter Gerado
+## Estrutura do Charter Gerado
 ```markdown
-🧭 CHARTER DE TESTE EXPLORATÓRIO — SBTM
+  CHARTER DE TESTE EXPLORATÓRIO — SBTM
 
-### 📋 IDENTIFICAÇÃO
+### IDENTIFICAÇÃO
 - **Título da Missão:** [heurística explícita no título]
 - **Funcionalidade Alvo:**
 - **Data / Versão:**
 - **Duração sugerida:** [30-90 min]
 
-### 🎯 MISSÃO
+### MISSÃO
 [Objetivo central da sessão]
 
-### 🔍 HEURÍSTICAS RECOMENDADAS PARA ESTA SESSÃO
+### HEURÍSTICAS RECOMENDADAS PARA ESTA SESSÃO
 - **Heurística principal:** [nome e descrição]
 - **Heurísticas de apoio:** [lista]
 
-### 🔎 ÁREAS DE INVESTIGAÇÃO
+### ÁREAS DE INVESTIGAÇÃO
 - [Área 1 — com heurística aplicada]
 - [Área 2 — com heurística aplicada]
 
-### 🧩 RECURSOS E DADOS
+### RECURSOS E DADOS
 - Dados de teste necessários
 - Configurações / ambientes
 - Ferramentas de apoio
 
-### 🚫 FORA DO ESCOPO
+### FORA DO ESCOPO
 
-### ⏱️ TIMEBOX
+### TIMEBOX
 
 ---
-### 📊 TASK BREAKDOWN (TBS) — Preencher após a sessão
-### 📝 NOTAS DA SESSÃO — (I) e (R)
-### 🐞 DEFEITOS ENCONTRADOS
-### ❓ ISSUES / PERGUNTAS
-### 🔄 DEBRIEFING PROOF
+### TASK BREAKDOWN (TBS) — Preencher após a sessão
+### NOTAS DA SESSÃO — (I) e (R)
+### DEFEITOS ENCONTRADOS
+### ISSUES / PERGUNTAS
+### DEBRIEFING PROOF

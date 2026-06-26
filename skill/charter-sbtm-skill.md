@@ -42,57 +42,57 @@ O SBTM organiza o teste exploratório em **sessões** — blocos ininterruptos d
 ## Estrutura do Charter (gerar após a Introdução)
 
 ```
-🧭 CHARTER DE TESTE EXPLORATÓRIO — SBTM
+CHARTER DE TESTE EXPLORATÓRIO — SBTM
 
-📋 IDENTIFICAÇÃO
+IDENTIFICAÇÃO
 - Título da Missão: [Incluir heurística principal, ex: "Explorar funcionalidade X com heurística Y"]
 - Funcionalidade Alvo:
 - Data / Versão:
 - Duração sugerida: [30-90 min]
 
-🎯 MISSÃO
+MISSÃO
 [Objetivo central da sessão — o que será explorado e com qual lente/heurística]
 
-🔍 HEURÍSTICAS RECOMENDADAS PARA ESTA SESSÃO
+HEURÍSTICAS RECOMENDADAS PARA ESTA SESSÃO
 - Heurística principal: [nome e breve descrição]
 - Heurísticas de apoio: [lista]
 
-🔎 ÁREAS DE INVESTIGAÇÃO
+ÁREAS DE INVESTIGAÇÃO
 - [Área 1]
 - [Área 2]
 - [Área 3]
 - [Aplicar heurísticas: Fronteira, CRUD, Estado, Interrupção, etc.]
 
-🧩 RECURSOS E DADOS
+RECURSOS E DADOS
 - Dados de teste necessários:
 - Configurações / ambientes:
 - Ferramentas de apoio:
 
-🚫 FORA DO ESCOPO
+FORA DO ESCOPO
 [O que NÃO será testado nesta sessão]
 
-⏱️ TIMEBOX: [minutos]
+TIMEBOX: [minutos]
 
 --- (preenchimento pós-sessão) ---
 
-📊 TASK BREAKDOWN (TBS) — Preencher após a sessão
+TASK BREAKDOWN (TBS) — Preencher após a sessão
 - Test Design & Execution: ___%
 - Bug Investigation & Reporting: ___%
 - Session Setup: ___%
 - Charter vs Opportunity: ___% / ___%
 
-📝 NOTAS DA SESSÃO
+NOTAS DA SESSÃO
 Use (I) para Informações e (R) para Riscos.
 - (I)
 - (R)
 
-🐞 DEFEITOS ENCONTRADOS
+DEFEITOS ENCONTRADOS
 - [Descrição do bug]
 
-❓ ISSUES / PERGUNTAS
+ISSUES / PERGUNTAS
 - [Dúvidas sobre o comportamento esperado]
 
-🔄 DEBRIEFING PROOF (pós-sessão)
+DEBRIEFING PROOF (pós-sessão)
 - Past: O que aconteceu durante a sessão?
 - Results: O que foi alcançado?
 - Obstacles: O que atrapalhou?
