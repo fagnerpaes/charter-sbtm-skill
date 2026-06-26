@@ -117,7 +117,7 @@ DEBRIEFING PROOF (pós-sessão)
 
 ## Exemplo de Entrada e Saída
 
-**Entrada**: US-042 — Como usuário logado, quero redefinir minha senha através do e-mail cadastrado.
+**Entrada**: US-001 — Como usuário logado, quero redefinir minha senha através do e-mail cadastrado.
 
 **Saída (charter gerado)**:
 - Introdução fixa sobre Testes Exploratórios com Heurísticas
